@@ -1,0 +1,13 @@
+# Security
+.env
+
+# Python Virtual Environment
+cafe_env/
+venv/
+__pycache__/
+
+# Local Data (Now that you use Supabase, don't upload the CSV)
+cafe_data.csv
+
+# macOS system files
+.DS_Store
